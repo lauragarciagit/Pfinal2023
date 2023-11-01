@@ -3,7 +3,7 @@ def Limpiar_pantalla():
     system("cls")
 
 def menu():
-    print("Bienvenidos a nuestra plataforma.\n¿Qué desea realizar?: ")
+    print("Bienvenidos a nuestra plataforma.\n¿Qué desea realizar.?: ")
     print("1- Buscar libro")
     print("2- Salir")
 
